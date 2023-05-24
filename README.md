@@ -4,7 +4,7 @@ Sistema para um estacionamento, que será usado para gerenciar os veículos esta
 As operações serão:
 - Adicionar um veículo;
 - Remover um veículo (ao final do periodo exibir o valor cobrado;
-- Listar os veículos;
+- Listar os veículos estacionados
 
 
 
