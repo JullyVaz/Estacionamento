@@ -14,7 +14,7 @@ O sistema possui um menu interativo com as seguintes ações:
 
 
 
-Diagrama Classe Estacionamento
+Diagrama da classe Estacionamento
 
 ![diagrama_classe_estacionamento](https://github.com/JullyVaz/Estacionamento/assets/110746371/4e1562ac-edb5-46a9-9810-66bcb1f99c74)
 
