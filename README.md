@@ -12,3 +12,7 @@ O sistema possui um menu interativo com as seguintes ações:
 3. Listar veículos
 4. Encerrar
 
+
+# Diagrama da classe Estacionamento
+
+![**diagrama_classe_estacionamento**](https://github.com/JullyVaz/Estacionamento/assets/110746371/7d5a662e-4dc3-4359-a6ba-b879acf683ae)
